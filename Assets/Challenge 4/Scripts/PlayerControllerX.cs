@@ -39,6 +39,7 @@ public class PlayerControllerX : MonoBehaviour
         {
             Destroy(other.gameObject);
             hasPowerup = true;
+            StartCoroutine(PowerupCooldown());
             powerupIndicator.SetActive(true);
         }
     }
@@ -48,7 +49,7 @@ public class PlayerControllerX : MonoBehaviour
     {
         yield return new WaitForSeconds(powerUpDuration);
         hasPowerup = false;
-        powerupIndicator.SetActive(false);
+        powerupIndicator.gameObject.SetActive(false);
     }
 
     // If Player collides with enemy

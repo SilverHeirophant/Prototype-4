@@ -2,23 +2,21 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Challenge 4/Scripts/EnemyX.cs">
     <Files>
       <File FileName="Assets/Scripts/RotateCamera.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/PlayerController.cs" Line="41" Column="10" />
+      <File FileName="Assets/Scripts/PlayerController.cs" />
       <File FileName="Assets/Scripts/Enemy.cs" />
-      <File FileName="Assets/Scripts/SpawnManager.cs" Line="42" Column="99" />
+      <File FileName="Assets/Scripts/SpawnManager.cs" />
       <File FileName="Assets/Challenge 4/Scripts/EnemyX.cs" Line="21" Column="37" />
-      <File FileName="Assets/Challenge 4/Scripts/PlayerControllerX.cs" Line="50" Column="28" />
-      <File FileName="Assets/Challenge 4/Scripts/SpawnManagerX.cs" Line="52" Column="30" />
-      <File FileName="Assets/Challenge 4/Scripts/RotateCameraX.cs" Line="1" Column="1" />
+      <File FileName="Assets/Challenge 4/Scripts/PlayerControllerX.cs" />
+      <File FileName="Assets/Challenge 4/Scripts/SpawnManagerX.cs" />
+      <File FileName="Assets/Challenge 4/Scripts/RotateCameraX.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Prototype 4" expanded="True">
-            <Node name="Assets" expanded="True">
+            <Node name="Assets" expanded="True" selected="True">
               <Node name="Challenge 4" expanded="True">
-                <Node name="Scripts" expanded="True">
-                  <Node name="EnemyX.cs" selected="True" />
-                </Node>
+                <Node name="Scripts" expanded="True" />
               </Node>
               <Node name="Scripts" expanded="True" />
             </Node>
@@ -29,7 +27,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="898ff132-e1f2-43bd-9b71-89656b601720" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8c029318-7508-465d-96c4-299ed45e5a9c" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
