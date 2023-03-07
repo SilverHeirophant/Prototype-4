@@ -11,6 +11,7 @@ public class EnemyX : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        playerGoal = GameObject.Find("Player Goal");
         enemyRb = GetComponent<Rigidbody>();
     }
 
